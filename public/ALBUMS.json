@@ -1,0 +1,170 @@
+[
+    {
+        "id": 1,
+        "artist": "Teddy Afro",
+        "album_name": "Ethiopia",
+        "release_year": "2017",
+        "cover_image": "./album_images/teddy_afro_ethiopia.webp"
+    },
+    {
+        "id": 2,
+        "artist": "Teddy Afro",
+        "album_name": "Yasteseryal",
+        "release_year": "2005",
+        "cover_image": "./album_images/teddy_afro_yasteseryal.webp"
+    },
+    {
+        "id": 3,
+        "artist": "Taylor Swift",
+        "album_name": "Taylor Swift",
+        "release_year": "2006",
+        "cover_image": "./album_images/taylor_swift_2008.webp"
+    },
+    {
+        "id": 4,
+        "artist": "Taylor Swift",
+        "album_name": "Red",
+        "release_year": "2012",
+        "cover_image": "./album_images/taylor_swift_red.webp"
+    },
+    {
+        "id": 5,
+        "artist": "Little Mix",
+        "album_name": "DNA",
+        "release_year": "2012",
+        "cover_image": "./album_images/little_mix_dna.webp"
+    },
+    {
+        "id": 6,
+        "artist": "Little Mix",
+        "album_name": "Salute",
+        "release_year": "2013",
+        "cover_image": "./album_images/little_mix_salute.webp"
+    },
+    {
+        "id": 7,
+        "artist": "Miley Cyrus",
+        "album_name": "The Time of Our Lives",
+        "release_year": "2009",
+        "cover_image": "./album_images/miley_cyrus_the_time_of_our_lives.webp"
+    },
+    {
+        "id": 8,
+        "artist": "Miley Cyrus",
+        "album_name": "Can't Be Tamed",
+        "release_year": "2010",
+        "cover_image": "./album_images/miley_cyrus_cant_be_tamed.webp"
+    },
+    {
+        "id": 9,
+        "artist": "Demi Lovato",
+        "album_name": "Tell Me You Love Me",
+        "release_year": "2017",
+        "cover_image": "./album_images/demi_lovato_tell_me_you_love_me.webp"
+    },
+    {
+        "id": 10,
+        "artist": "Demi Lovato",
+        "album_name": "Don't Forget",
+        "release_year": "2008",
+        "cover_image": "./album_images/demi_lovato_dont_forget.webp"
+    },
+    {
+        "id": 11,
+        "artist": "Demi Lovato",
+        "album_name": "Demi",
+        "release_year": "2013",
+        "cover_image": "./album_images/demi_lovato_demi.webp"
+    },
+    {
+        "id": 12,
+        "artist": "Demi Lovato",
+        "album_name": "Here We Go Again",
+        "release_year": "2009",
+        "cover_image": "./album_images/demi_lovato_here_we_go_again.webp"
+    },
+    {
+        "id": 13,
+        "artist": "",
+        "album_name": "",
+        "release_year": "",
+        "cover_image": "./album_images/"
+    },
+    {
+        "id": 14,
+        "artist": "Destiny's Child",
+        "album_name": "Survivor",
+        "release_year": "2001",
+        "cover_image": "./album_images/destinys_child_survivor.webp"
+    },
+    {
+        "id": 15,
+        "artist": "Selena Gomez",
+        "album_name": "For You",
+        "release_year": "2014",
+        "cover_image": "./album_images/selena_gomez_for_you.webp"
+    },
+    {
+        "id": 16,
+        "artist": "Eminem",
+        "album_name": "Don't Call Me Marshall",
+        "release_year": "2003",
+        "cover_image": "./album_images/eminem_dont_call_me_marshall.webp"
+    },
+    {
+        "id": 17,
+        "artist": "Eminem",
+        "album_name": "Recovery",
+        "release_year": "2010",
+        "cover_image": "./album_images/eminem_recovery.webp"
+    },
+    {
+        "id": 18,
+        "artist": "Usher",
+        "album_name": "My Way",
+        "release_year": "1997",
+        "cover_image": "./album_images/usher_my_way.webp"
+    },
+    {
+        "id": 19,
+        "artist": "Usher",
+        "album_name": "Confessions",
+        "release_year": "2004",
+        "cover_image": "./album_images/usher_confessions.webp"
+    },
+    {
+        "id": 20,
+        "artist": "Bow Wow",
+        "album_name": "The Price of Fame",
+        "release_year": "2006",
+        "cover_image": "./album_images/bow_wow_the_price_of_fame.webp"
+    },
+    {
+        "id": 21,
+        "artist": "Bow Wow",
+        "album_name": "Beware of Dog",
+        "release_year": "2000",
+        "cover_image": "./album_images/bow_wow_beware_of_dog.webp"
+    },
+    {
+        "id": 22,
+        "artist": "Bow Wow",
+        "album_name": "Doggy Bag",
+        "release_year": "2001",
+        "cover_image": "./album_images/bow_wow_doggy_bag.webp"
+    },
+    {
+        "id": 23,
+        "artist": "Chris Brown",
+        "album_name": "Chris Brown",
+        "release_year": "2005",
+        "cover_image": "./album_images/chris_brown_2005.webp"
+    },
+    {
+        "id": 24,
+        "artist": "Beyoncé",
+        "album_name": "4",
+        "release_year": "2011",
+        "cover_image": "./album_images/beyonce_4.webp"
+    }
+]

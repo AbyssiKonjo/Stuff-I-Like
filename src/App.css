@@ -1,0 +1,138 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Nunito", sans-serif;
+}
+  
+.mb-2 {
+    margin-bottom: 20px;
+}
+  
+body {
+    margin: 0;
+    padding: 0px;
+    background-image: url(/bg.webp);
+    object-fit: fill;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+  
+body.no-scroll {
+    overflow-y: hidden;
+}
+  
+label {
+    display: block;
+}
+  
+a {
+    text-decoration: none;
+}
+  
+/* nav */
+#topnav {
+    background: black;
+    display: flex;
+    padding: 20px;
+    text-align: left;
+}
+  
+#menu {
+    width: 75%;
+    padding-right: 30px;
+}
+  
+#topnav a {
+    color: white;
+    text-decoration: none;
+    margin-left: 20px;
+    font-size: 18px;
+    margin-top: 5px;
+    display: inline-block;
+}
+
+#topnav a:hover {
+    color: red;
+}
+
+/* HOME */
+.home-page-content {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+    gap: 20px;
+}
+.profile-image {
+    width: 500px;
+    height: 500px;
+    border-radius: 50%;
+    background-color: whitesmoke;
+}
+
+/* ALBUMS */
+.album-card-grid {
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    padding: 30px;
+    gap: 2em;
+}
+
+.album-card {
+    border: 3px solid whitesmoke;
+    padding: 10px;
+    border-radius: 10px;
+    display: flex;
+    background-color: black;
+}
+  
+.album-cover-image img {
+    width: 150px;
+    height: 150px;
+    margin-right: 10px;
+    object-fit: cover;
+    border-radius: 8px;
+    border: 2px solid red;
+}
+
+.album-details {
+    width: 100%;
+    height: 100%;
+    display: block;
+    align-items: start;
+    justify-content: space-around;
+    color: white;
+}
+
+.album-details h2 {
+    color: red;
+}
+
+h3 {
+    font-size: 1.3rem;
+    font-weight: 100;
+}
+
+h4 {
+    color: #ca0000;
+    font-size: 15px;
+    text-align: right;
+}
+
+/* Media queries */
+@media screen and (min-width: 1024px) {
+    #menu {
+      display: block;
+      width: 75%;
+    }
+    #menu li {
+      display: inline-block;
+    }
+    #menu-container {
+      display: none;
+    }
+    .album-card-grid {
+      grid-template-columns: repeat(3,1fr);
+    }
+}
